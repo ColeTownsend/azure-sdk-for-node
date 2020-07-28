@@ -24,7 +24,7 @@
     "xunit-file": "0.0.5",
     "mocha": "2.2.5",
     "should": "5.2.0",
-    "moment":  "~2.18.1"
+    "moment":  "~2.27.0"
   },
   "homepage": "https://github.com/Azure/AutoRest/src/client/NodeJS/ms-rest/test",
   "repository": {
